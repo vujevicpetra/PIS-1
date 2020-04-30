@@ -8,5 +8,6 @@ namespace vjezba1
 {
     class NewClass
     {
+        Console.WriteLine("Petrina metoda");
     }
 }
